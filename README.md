@@ -1,1 +1,1 @@
-# SafePlaceToLearn_website
+# educational.github.io
